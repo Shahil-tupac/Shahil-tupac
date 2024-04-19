@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shahil OLi</h1>
 <h3 align="center">I don't write code, I craft solutions.</h3>
 
+<div align="center">
+  <img height="200" src="https://i.giphy.com/mTPjPA6SSXgTsnZ1Dh.webp"  />
+</div>
 
+###
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahil-tupac&label=Profile%20views&color=0e75b6&style=flat" alt="shahil-tupac" /> </p>
